@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perfumitos</string>
+    <string name="product_image">Product Image</string>
+    <string name="vista_previa_de_imagen_seleccionada">Vista previa de imagen seleccionada</string>
+    <string name="app_logo_url"></string>
+    <string name="add_to_cart">Agregar al carrito</string>
+</resources>
